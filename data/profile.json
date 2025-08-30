@@ -1,0 +1,96 @@
+{
+  "name": "Ivailton Luiz Oliveira Fernandes",
+  "photo": "https://avatars.githubusercontent.com/u/222654953?s=96&v=4",
+  "job": "Prefeitura municipal de Santana",
+  "location": "Santana - BA",
+  "phone": "(77) 981321568",
+  "email": "ivailtonfernandes@gmail.com.br",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "html",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "mysql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "vscode",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
+      },
+      {
+        "name": "git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização",
+      "Proatividade"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (iniciante)",
+    
+  ],
+  "portfolio": [
+    {
+      "name": "Criação de uma Pokedex no curso da DIO",
+      "url": "https://github.com/IvailtonFernandes/pokedex.git",
+      "github": true
+    },
+    {
+      "name": "Jogo de jokenpo com conceitos de lógica de programação aplicados a jogos",
+      "url": "https://github.com/IvailtonFernandes/yugioh-jokenpo.git",
+      "github": true
+    },
+    {
+      "name": "Desafio DIO relativo à responsividade , onde recriei a página do discord",
+      "url": "https://github.com/IvailtonFernandes/Clone-da-pagina-do-Discord.git",
+      "github": true
+    },
+    {
+      "name": "Esse projeto consistiu na criação de um clone da página do youtube",
+      "url": "https://github.com/IvailtonFernandes/clone-da-pagina-do-youtube.git",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Escriturario / Prefeitura municipal de Santana-Ba",
+      "period": "2015 - até o momento",
+      "description": "Atuo na Prefeitura com emissão de CDI, atendimento à população e operação do sistema SERMIL, desenvolvendo habilidades em organização de dados, processos digitais e solução de problemas, aplicáveis à área de desenvolvimento de software."
+    },
+    {
+      "name": "Agente de Pesquisa e Mapeamento / IBGE",
+      "period": "2014 - 2015",
+      "description": "Atuei no IBGE como agente de pesquisa e mapeamento, coletando e organizando dados de forma precisa, desenvolvendo atenção a detalhes, análise de informações e trabalho com sistemas digitais, trabahei com planilhas excel,competências aplicáveis à área de desenvolvimento de software."
+    },
+    {
+      "name": "Recenseador / IBGE",
+      "period": "2010 - 2010",
+      "description": "Atuei como recenseador no IBGE, planejando rotas, registrando informações de forma organizada e interagindo com a população, desenvolvendo habilidades em comunicação, coleta estruturada de dados e gestão de processos."
+    }
+  ]
+}
